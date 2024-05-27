@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+
+
+
+ img{
+	width : 400px;
+	height : 200px;
+	object-fit: cover;
+
+}
+.hero h1 p{
+	display :flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.hero button{
+	background-color: red;
+	padding : 10px 20px;
+	border-radius : 5px;
+	cursor : pointer;
+}
